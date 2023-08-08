@@ -1,0 +1,13 @@
+.card{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+}
+
+body{
+  background-image: url(Logo2.jpg);
+}
